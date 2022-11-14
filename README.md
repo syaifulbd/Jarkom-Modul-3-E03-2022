@@ -1,7 +1,5 @@
 # Jarkom-Modul-3-E03-2022
 
-# Jarkom-Modul-2-E03-2022
-
 ## Kelompok E03
 - Pedro T. Korwa              05111940007003
 - Made Rianja Richo Dainino   5025201236
